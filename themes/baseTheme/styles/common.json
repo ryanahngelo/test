@@ -1,0 +1,34 @@
+{
+  ".tt": {
+    "icon": {
+      "normal": "facebook.png",
+      "selected": "facebook.png"
+    }
+  },
+  ".twitter": {
+    "icon": {
+      "normal": "twitter.png",
+      "selected": "twitter.png"
+    }
+  },
+  ".instagram": {
+    "icon": {
+      "normal": "instagram.png",
+      "selected": "instagram.png"
+    }
+  },
+  ".test": {
+    "backgroundColor": "rgba( 0, 0, 0, 1 )",
+    "itemColor": {
+      "normal": "rgba( 255, 255, 255, 1 )",
+      "selected": "rgba( 155, 155, 155, 1 )"
+    }
+  },
+  ".backgroundTest": {
+    "backgroundColor": "rgba( 0, 0, 0, 1 )",
+    "itemColor": {
+      "normal": "rgba( 74, 144, 226, 1 )",
+      "selected": "rgba( 65, 117, 5, 1 )"
+    }
+  }
+}

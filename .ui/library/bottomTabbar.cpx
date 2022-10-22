@@ -1,0 +1,106 @@
+{
+	"components": [
+		{
+			"className": ".sf-bottomtabbar .backgroundTest",
+			"id": "fe3b-9e59-cb61-d459",
+			"props": {
+				"children": [
+					"eefc-7969-cedf-3fa4",
+					"382f-33f9-0c2c-b0f9",
+					"8ba3-afe1-d92f-5fc2",
+					"a17e-80ba-0eff-6ac7",
+					"b331-75a5-5bca-012f"
+				],
+				"name": "bottomTabbar",
+				"parent": "57f4-201f-4bfc-5fc6"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "BottomTabbar",
+			"userProps": {}
+		},
+		{
+			"className": " .sf-tabbaritem .tt",
+			"id": "eefc-7969-cedf-3fa4",
+			"props": {
+				"children": [],
+				"name": "tabBarItem2",
+				"parent": "fe3b-9e59-cb61-d459",
+				"title": "facebook"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "TabBarItem",
+			"userProps": {
+				"title": "facebook"
+			}
+		},
+		{
+			"className": ".sf-tabbaritem .twitter",
+			"id": "382f-33f9-0c2c-b0f9",
+			"props": {
+				"children": [],
+				"name": "tabBarItem1",
+				"parent": "fe3b-9e59-cb61-d459",
+				"title": "Twitter"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "TabBarItem",
+			"userProps": {
+				"title": "Twitter"
+			}
+		},
+		{
+			"className": ".sf-tabbaritem .instagram",
+			"id": "8ba3-afe1-d92f-5fc2",
+			"props": {
+				"children": [],
+				"name": "tabBarItem3",
+				"parent": "fe3b-9e59-cb61-d459",
+				"title": "ssed"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "TabBarItem",
+			"userProps": {
+				"title": "ssed"
+			}
+		},
+		{
+			"className": ".sf-tabbaritem",
+			"id": "a17e-80ba-0eff-6ac7",
+			"props": {
+				"children": [],
+				"name": "tabBarItem4",
+				"parent": "fe3b-9e59-cb61-d459",
+				"title": "0 "
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "TabBarItem",
+			"userProps": {
+				"title": "0 "
+			}
+		},
+		{
+			"className": ".sf-tabbaritem",
+			"id": "b331-75a5-5bca-012f",
+			"props": {
+				"children": [],
+				"name": "tabBarItem5",
+				"parent": "fe3b-9e59-cb61-d459"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "TabBarItem",
+			"userProps": {}
+		}
+	]
+}
